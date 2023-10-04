@@ -60,3 +60,5 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+// egy új komment
